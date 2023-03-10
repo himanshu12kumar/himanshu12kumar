@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himanshu12kumar
+- 👋 Hi, I’m Himanshu kumar
 - 👀 I’m interested in software devlopment and design
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on github
